@@ -19,10 +19,10 @@ This project implements a multi-model machine learning framework for detecting c
 ![Feature](results/Feature%20_Importance.png)
 
 ### Confusion Matrix (Random Forest)
-![Confusion](results/Confusion%20Matrix_Random%20Forest.png)
+![Confusion](results/Confusion Matrix_Support Vector Machine.png)
 
 ### ROC Curve (Random Forest)
-![ROC](results/ROC Curve_Random Forest.png)
+![ROC](results/ROC Curve_Support Vector Machine.png)
 
 ## ⚙️ Tech Stack
 - Python
