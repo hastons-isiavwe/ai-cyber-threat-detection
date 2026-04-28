@@ -12,9 +12,6 @@ This project implements a multi-model machine learning framework for detecting c
 
 ## 📊 Results
 
-### Model Performance Comparison
-![Performance](results/Model_Performance_Comparison.png)
-
 ### Feature Importance
 ![Feature Importance](results/Feature_Importance.png)
 
