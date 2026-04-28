@@ -23,8 +23,6 @@ This project implements a multi-model machine learning framework for detecting c
 
 ### ROC Curve (Random Forest)
 ![ROC Curve](results/ROC Curve_Random Forest.png)
-![Performance](results/Model_Performance_Comparison.png)
-![Feature Importance](results/Feature_Importance.png)
 
 ## ⚙️ Tech Stack
 - Python
