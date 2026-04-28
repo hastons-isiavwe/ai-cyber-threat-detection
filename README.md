@@ -16,10 +16,10 @@ This project implements a multi-model machine learning framework for detecting c
 ![Performance](results/Model_Performance_Comparison.png)
 
 ### Feature Importance
-![Feature Importance](results/Feature_Importance.png)
+![Feature Importance](results/Feature%20_Importance.png)
 
 ### Confusion Matrix (Random Forest)
-![Confusion Matrix](results/Confusion Matrix_Random Forest.png)
+![Confusion Matrix](results/Confusion%20Matrix_Random%20Forest.png)
 
 ### ROC Curve (Random Forest)
 ![ROC Curve](results/ROC Curve_Random Forest.png)
